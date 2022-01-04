@@ -1,0 +1,48 @@
+@media screen and (max-width: 994px) {
+  .sidenav {
+    text-align: center;
+  }
+}
+
+.mb {
+  margin-bottom: 10px;
+}
+
+.slider h3,
+.slider h5 {
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.parallax-container {
+  height: 50%;
+}
+
+.clients {
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+.parallax img {
+  opacity: 0.8 !important;
+}
+
+.clients img {
+  max-width: 150px;
+  filter: drop-shadow(1px 1px 1px rgba(0, 0, 0, 1));
+}
+section {
+  padding: 30px 0px;
+}
+.btn {
+  border-radius: 40px;
+}
+.btn:hover {
+  transform: scale(1.1);
+}
+
+.services {
+  margin-top: -30px !important;
+}
